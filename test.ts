@@ -1,1 +1,7 @@
-// tests go here; this will not be compiled when this package is used as a library
+turtle.forward(1)
+turtle.back(1)
+turtle.turnLeft()
+turtle.forward(1)
+turtle.turnRight()
+turtle.back(1)
+turtle.setPosition(4, 4)
